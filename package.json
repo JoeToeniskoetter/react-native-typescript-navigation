@@ -1,0 +1,8 @@
+{
+  "name": "react-native-navigation-typescript",
+  "version": "0.0.1",
+  "description": "React Native Template With Typescript and Navigation",
+  "repository": "git@github.com:JoeToeniskoetter/react-native-typescript-navigation.git",
+  "author": "Joe Toensikoetter",
+  "license": "MIT"
+}
